@@ -19,4 +19,4 @@
 * Panneer
 * Carrot and Beetroot
 * Ghee
-* Mysore masala
+
