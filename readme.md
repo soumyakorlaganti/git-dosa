@@ -13,3 +13,6 @@
 * Dosa batter
 * 1/2 egg
 * oil and karam
+
+## Panneer Dosa
+* Dosa batter
