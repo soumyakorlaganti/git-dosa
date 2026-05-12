@@ -18,3 +18,4 @@
 * Dosa batter
 * Panneer
 * Carrot and Beetroot
+* Ghee
