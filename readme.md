@@ -7,6 +7,7 @@
 ## Karam Dosa
 * Dosa batter
 * Oil
+<<<<<<< HEAD
 * Erra Karam
 
 ## Egg Dosa
@@ -23,3 +24,5 @@
 ## Neyyi Karam Dosa
 * Dosa batter
 * Ghee
+* Erra Karam
+
